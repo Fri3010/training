@@ -63,6 +63,3 @@ function evenOrOdd(number) {
 
 
 
-
-
-
